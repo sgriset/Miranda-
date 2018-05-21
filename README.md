@@ -9,3 +9,4 @@ to to maneuver autonomously.  The circuit diagram for the coprocessor is the fol
 ![alt text](https://user-images.githubusercontent.com/21957723/40286680-743c9980-5c5d-11e8-9346-59b4fcad6248.png)
 The circuit layouts :-)
 ![alt text](https://user-images.githubusercontent.com/21957723/40286829-64e9086e-5c5e-11e8-86b4-a3a25965c383.JPG)
+For full details on the project go to www.openrover.net blog 
